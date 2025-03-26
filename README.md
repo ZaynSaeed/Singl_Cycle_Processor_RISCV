@@ -6,7 +6,7 @@ This project implements a **RISC-V single-cycle processor** as part of a lab tas
 
 ## Features
 
-- Supports a subset of **RISC-V I-type instructions**  
+- Supports a subset of **RISC-V instructions**  
 - **Single-cycle execution model**  
 - **Modular design** for ease of understanding and modification  
 - Simulated using a **hardware description language (HDL)** and evaluated through **waveform analysis**  
