@@ -50,7 +50,10 @@ To begin exploring the RV32I 5-Stage Pipeline Processor:
   **2)** Navigate to the project directory:
 
      cd your_pc_folder
+  **2)** Open folder:
 
-  **3)** Refer to the documentation provided in the repository to build, simulate, or test the processor implementation.
+     explorer .
 
-  **4)** Experiment with the design, explore optimizations, or integrate additional features to further enhance the processor's capabilities.
+  **4)** Refer to the documentation provided in the repository to build, simulate, or test the processor implementation.
+
+  **5)** Experiment with the design, explore optimizations, or integrate additional features to further enhance the processor's capabilities.
