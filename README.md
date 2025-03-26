@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project implements a **RISC-V single-cycle processor** as part of a lab task. The design follows a simplified version of the **RISC-V ISA**, focusing on **I-type instructions**. The implementation includes key components such as the **instruction fetch unit, control unit, ALU, register file, and data memory**.
+This project implements a **RISC-V single-cycle processor** as part of a lab task. The design follows a simplified version of the **RISC-V ISA**, focusing on **All-types of instructions**. The implementation includes key components such as the **instruction fetch unit, control unit, ALU, register file, and data memory**.
 
 ## Features
 
