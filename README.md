@@ -1,1 +1,1 @@
-# Singl_Cycle_Processor_RISCV
+# Single_Cycle_Processor_RISCV
